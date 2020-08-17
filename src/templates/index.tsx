@@ -10,7 +10,6 @@ import { MetaData } from '../components/common/meta'
 import Container from '../components/common/Container'
 import Banner from '../components/common/Banner'
 
-import bgLight from '../images/pg-bckg-light.png'
 import Alert from '../components/common/Alert'
 
 const PostFeed = styled.div`
