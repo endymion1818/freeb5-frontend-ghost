@@ -14,10 +14,11 @@ import bgLight from '../images/pg-bckg-light.png'
 import Alert from '../components/common/Alert'
 
 const PostFeed = styled.div`
+    display: grid;
+    grid-gap: 15px;
+    
     @media (min-width: 768px){
-        display: grid;
         grid-template-columns: repeat(3,32.25%);
-        grid-gap: 15px;
     }
 `
 
