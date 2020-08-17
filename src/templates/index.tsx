@@ -16,8 +16,8 @@ import Alert from '../components/common/Alert'
 const PostFeed = styled.div`
     @media (min-width: 768px){
         display: grid;
-        grid-template-columns: repeat(3, 33%);
-        grid-gutter: 15px;
+        grid-template-columns: repeat(3,32.25%);
+        grid-gap: 15px;
     }
 `
 

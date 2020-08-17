@@ -19,5 +19,8 @@ const GlobalStyles = createGlobalStyle`
     h3 {
         font-family: SerpentineMedium, Verdana, sans-serif;
     }
+    h1 {
+        font-size: 3em;
+    }
 `
 export default GlobalStyles
